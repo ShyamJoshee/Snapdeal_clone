@@ -1,14 +1,14 @@
 import * as React from "react";
-//import "./product.css";
-import { styled } from "@mui/material/styles";
+// import "./product.css";
+// import { styled } from "@mui/material/styles";
 import Box from "@mui/material/Box";
 import Grid from "@mui/material/Grid";
 import Card from "@mui/material/Card";
-import CardActions from "@mui/material/CardActions";
+// import CardActions from "@mui/material/CardActions";
 import CardContent from "@mui/material/CardContent";
 import CardMedia from "@mui/material/CardMedia";
-import  { useEffect, useState } from 'react';
-import Login from '../pages/Login';
+// import  { useEffect, useState } from 'react';
+// import Login from '../pages/Login';
 import pay from "../../Images/pay.png";
 import scl from "../../Images/scl.jpg";
 
@@ -28,12 +28,12 @@ import Typography from "@mui/material/Typography";
 import Button from "@mui/material/Button";
 // import KeyboardArrowLeft from "@mui/icons-material/KeyboardArrowLeft";
 // import KeyboardArrowRight from "@mui/icons-material/KeyboardArrowRight";
-import { Input, Stack } from "@mui/material";
+import { Stack } from "@mui/material";
 
-import ProductItem from "../reuse/ProductItem";
-import Pagination from '@mui/material/Pagination';
-import { FaMobileAlt } from "react-icons/fa";
-import { FaSearch } from "react-icons/fa";
+// import ProductItem from "../reuse/ProductItem";
+// import Pagination from '@mui/material/Pagination';
+// import { FaMobileAlt } from "react-icons/fa";
+// import { FaSearch } from "react-icons/fa";
 //import {HiOutlineShoppingCart } from "react-icons/fa";
 //import { FaUserCircle } from "react-icons/fa";
 

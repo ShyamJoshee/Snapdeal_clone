@@ -8,17 +8,17 @@ import Grid from "@mui/material/Grid";
 // import CardContent from "@mui/material/CardContent";
 import CardMedia from "@mui/material/CardMedia";
 import  { useEffect, useState } from 'react';
-import img2 from "../../Images/img1.png";
-import img3 from '../../Images/mens.jpg';
-import img4 from '../../Images/H&K.jpg';
-import img5 from '../../Images/kids.jpg';
-import img6 from '../../Images/Beauty.jpg';
-import List from "@mui/material/List";
-import ListItem from "@mui/material/ListItem";
+// import img2 from "../../Images/img1.png";
+// import img3 from '../../Images/mens.jpg';
+// import img4 from '../../Images/H&K.jpg';
+// import img5 from '../../Images/kids.jpg';
+// import img6 from '../../Images/Beauty.jpg';
+// import List from "@mui/material/List";
+// import ListItem from "@mui/material/ListItem";
 
-import ListItemText from "@mui/material/ListItemText";
-import ListItemAvatar from "@mui/material/ListItemAvatar";
-import Avatar from "@mui/material/Avatar";
+// import ListItemText from "@mui/material/ListItemText";
+// import ListItemAvatar from "@mui/material/ListItemAvatar";
+// import Avatar from "@mui/material/Avatar";
 
 import Paper from "@mui/material/Paper";
 import Typography from "@mui/material/Typography";
@@ -27,10 +27,10 @@ import Button from "@mui/material/Button";
 import { Input, Rating, Stack } from "@mui/material";
 import { Form, useParams } from "react-router-dom";
 // import { Margin } from "@mui/icons-material";
-import ProductItem from "../reuse/ProductItem";
-import Pagination from '@mui/material/Pagination';
+// import ProductItem from "../reuse/ProductItem";
+// import Pagination from '@mui/material/Pagination';
 import Divider from '@mui/material/Divider';
-import { Route,Link } from 'react-router-dom';
+// import { Route,Link } from 'react-router-dom';
 
 
 const Item = styled(Paper)(({ theme }) => ({

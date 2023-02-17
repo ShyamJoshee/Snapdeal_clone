@@ -1,7 +1,7 @@
 import * as React from "react";
 import Box from "@mui/material/Box";
 import Button from "@mui/material/Button";
-import Typography from "@mui/material/Typography";
+// import Typography from "@mui/material/Typography";
 import Modal from "@mui/material/Modal";
 //import input from "@mui/material/TextField";
 import "./pay.css";
@@ -9,7 +9,7 @@ import MenuItem from '@mui/material/MenuItem';
 // import { Label } from "@mui/icons-material";
 // import { Stack } from "@mui/material";
 import TextField from '@mui/material/TextField';
-import  { useEffect, useState } from 'react';
+import  { useEffect} from 'react';
 const style = {
   position: "absolute",
   top: "50%",

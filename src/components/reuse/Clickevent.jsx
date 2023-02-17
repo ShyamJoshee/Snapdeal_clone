@@ -1,14 +1,14 @@
-import React from 'react'
+// import React from 'react'
 import '../styles/App.css';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Catalog from './pages/Catalog';
-import Payment from './pages/Payment';
-import Product from './pages/Product';
-import Account from './pages/Account';
-import Cart from './pages/Cart';
+// import { BrowserRouter, Routes, Route } from 'react-router-dom';
+// import Catalog from './pages/Catalog';
+// import Payment from './pages/Payment';
+// import Product from './pages/Product';
+// import Account from './pages/Account';
+// import Cart from './pages/Cart';
 import { useState } from 'react';
-import Header from './Header';
-import ProductItem from './reuse/ProductItem';
+// import Header from './Header';
+// import ProductItem from './reuse/ProductItem';
 
 const Clck = ()=>{
  
