@@ -1,0 +1,15 @@
+.cardcontent{
+   
+    margin-top: 1px;
+
+}
+.gridbox {
+    padding-top: 100px !important;
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+}
+.tyLogin{
+    margin:0;
+}

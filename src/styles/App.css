@@ -1,0 +1,236 @@
+body{
+    background-color: #f6f3f3;
+}
+.navbar-header{
+    background: rgb(11, 10, 10);
+    width: 100%;
+    height:12%;
+    position: fixed;
+    backface-visibility: hidden;
+    z-index: 1;
+}
+.header-top{
+    display: block !important;
+    background: #c00c42 !important;
+    position: relative;
+    z-index: 1;
+    color: #d8d8d8;
+}
+.header-top .header-top-wraper{
+    height:30.2px;
+}
+.header-top .header-top-wraper .left-side-header{
+    padding: 3px 6px;
+    border-radius: 2px;
+    line-height: 22px;
+    display: inline;
+    font-size: 0.8em;
+}
+.btn-side{
+    width:37%;
+    margin:6rem 0 -1rem -1rem;
+    height:20%;
+}
+.header-top .header-top-wraper .right-side-header{
+    padding:0rem 0 0 30rem;
+    margin-top: -1rem;
+    display:flex;
+    /* justify-content: space-around; */
+}
+.main-navbar{
+    height: 40px;
+    padding: 0 0 20px 0;
+    overflow: visible !important;
+    margin: 0 auto;
+    background: #e40046;
+    transform: translate(0, 0);
+    width: 100%;
+    opacity: 1;
+    box-shadow: 0 0 4px rgb(0 0 0 / 20%);
+    display: flex;
+}
+
+.logo .image{
+    
+    margin:1;
+}
+.right-side-header{
+    margin-left: 20rem;
+    font-size: 14px;
+}
+.a1{
+ padding:-0.4rem;
+ margin-left: 1rem;
+ 
+}
+.a2{
+    padding:-0.4rem;
+    margin-left: 1rem;
+   }
+   .a3{
+    padding:-0.4rem;
+    margin-left: 1rem;
+   }
+   .a4{
+    padding:-0.4rem;
+    margin-left: 1rem;
+   }
+   .a5{
+    padding:-0.4rem;
+    margin-left: 1rem;
+   }
+   
+   .search-box{
+    margin-top: 0px;
+    margin-left: 5rem;
+    padding-top: 10.5px;
+    padding-left: 15px;
+
+
+
+}
+   
+.search-input{
+   
+    border: none;
+    font-size: 14px;
+    color: #909090;
+    border-right: none;
+    height: 37px;
+    padding: 0 10px 0 32px;
+    outline: none;
+    text-overflow: ellipsis;
+    border-radius: 2px 0px 0px 2px;
+    font-family: "font-regular";
+    margin: 0px 0px 0px 0px !important;
+    width: 550px;
+}
+.btn{
+    position: relative;
+    top: 11px;
+    background: #333;
+    color: #fff;
+    transition: all .2s ease-out;
+    height: 37px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    line-height: 25px;
+    font-size: 0.8em;
+    border-radius: 0 3px 3px 0 !important;
+    width:95px;
+}
+.fa fa-search{
+    font-size: 18px;
+    height:10px;
+    width:10px;
+}
+.cart{
+    border-left: 1px solid rgba(0,0,0,0.07);
+    height: 63px;
+    text-align: center;
+    display: table;
+    cursor: pointer;
+    margin:0.5rem;
+    width: 135px;
+    margin-left:50px;
+    color:white !important;
+}
+.carticon{
+    padding:12px;
+}
+.accicon{
+    padding:12px;
+}
+.signin{
+    /* //border-left: 1px solid rgba(0,0,0,0.07); */
+    border-left: 1px solid rgba(236, 229, 229, 0.226);
+    height: 55px;
+    text-align: center;
+    display: table;
+    cursor: pointer;
+    margin-top: 0.3rem;
+    width: 145px;
+    color: white !important;
+    border-top-left-radius: 4px 4px;
+    border-top-right-radius: 4px 4px;
+    margin-left:50px;
+}
+
+.signin:hover{
+    background-color: #333;
+}
+.container{
+    display: flex;
+}
+.container .catList{
+height:500px;
+width:200px;
+border-color: solid #333;
+}
+.container .ProList{
+    height:300px;
+    width:500px;
+    border-color: black ;
+}
+.container .AccList{
+    height:300px;
+    width:500px;
+    border-color: #c00c42;
+}
+.ProdctDisplay{
+    display: flex;
+    width: 75%;
+    border: 1px solid white;
+    height: 800px;
+    margin-left: 326px;
+}
+.trend{
+    
+    font-size: 18px;
+    color: #333;
+    text-transform: uppercase;
+    margin-top: 1px;
+    margin-left:3px
+}
+.Container {
+    Display: Flex;
+    Flex-Flow: Column;
+    Height: 100%;
+    Align-Items: Space-Around;
+    Justify-Content: Center;
+  }
+  
+  .UserInput {
+    Display: Flex;
+    Justify-Content: Center;
+  }
+  
+  Input {
+    Margin: 10px;
+    Height: 35px;
+    Width: 42px;
+    Border: None;
+    Border-Radius: 5px;
+    Text-Align: Center;
+    Font-Family: Arimo;
+    Font-Size: 1.2rem;
+    Background: #Eef2f3;
+  }
+  .input1 {
+    Margin: 10px;
+    Height: 35px; 
+    Border-Radius: 5px;
+    Text-Align: Center;
+    Font-Family: Arimo;
+    Font-Size: 1.2rem;
+   
+    width:380px;
+  }
+  .login_btn{
+    background-color: red !important;
+    display: flex!important;
+    justify-content: center!important;
+    width:385px;
+  }
+ 

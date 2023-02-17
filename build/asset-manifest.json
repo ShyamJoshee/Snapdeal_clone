@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a4617008.css",
+    "main.js": "/static/js/main.127dc6cc.js",
+    "static/media/mens.jpg": "/static/media/mens.33fb1a0bfc9ad42f7252.jpg",
+    "static/media/kids.jpg": "/static/media/kids.5606c7ddebc47e6b7fd7.jpg",
+    "static/media/WF.jpg": "/static/media/WF.bf801cfbea2ea046e12a.jpg",
+    "static/media/Beauty.jpg": "/static/media/Beauty.663e25aaccd948339cfa.jpg",
+    "static/media/H&K.jpg": "/static/media/H&K.fd05fcba0fcec9fa4c3c.jpg",
+    "static/media/ca1.jpg": "/static/media/ca1.f9be86cbe976e000db37.jpg",
+    "static/media/sng.png": "/static/media/sng.d2c0461e66bd3514df1f.png",
+    "static/media/hc.png": "/static/media/hc.068b48f5832923fab7f7.png",
+    "static/media/tst.jpg": "/static/media/tst.f9580e1decb2d33d7d4e.jpg",
+    "static/media/scl.jpg": "/static/media/scl.125be9a61b71577c4982.jpg",
+    "index.html": "/index.html",
+    "main.a4617008.css.map": "/static/css/main.a4617008.css.map",
+    "main.127dc6cc.js.map": "/static/js/main.127dc6cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4617008.css",
+    "static/js/main.127dc6cc.js"
+  ]
+}
